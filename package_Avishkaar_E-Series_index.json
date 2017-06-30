@@ -20,12 +20,17 @@
           "url": "https://github.com/rajeev-gaba/Avishkaar/blob/master/Releases/Avishkaar_1.1.0.zip",
           "archiveFileName": "Avishkaar_1.1.0.zip",
           "checksum": "SHA-256:8b3378f9ab68d132241bde527ef8766a97e8f0bf1218f351f75e518dd23fe36a",
-          "size": "25778",
+          "size": "26629",
           "boards": [
             {"name": "E-Series Full"},
             {"name": "SR-Series Full"}
           ],
           "toolsDependencies": [
+          	{
+               "packager": "arduino",
+               "name": "avr-gcc",
+               "version": "4.8.1-arduino5"
+            },
             {
               "packager": "arduino",
               "name": "avrdude",
