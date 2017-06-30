@@ -17,8 +17,8 @@
           "help": {
             "online": "http:www.avishkaarbox.com"
           },
-          "url": "https://github.com/rajeev-gaba/Avishkaar/archive/master.zip",
-          "archiveFileName": "Avishkaar-master.zip",
+          "url": "https://github.com/rajeev-gaba/Avishkaar/blob/master/Releases/Avishkaar_1.1.0.zip",
+          "archiveFileName": "Avishkaar_1.1.0.zip",
           "checksum": "SHA-256:8b3378f9ab68d132241bde527ef8766a97e8f0bf1218f351f75e518dd23fe36a",
           "size": "25778",
           "boards": [
