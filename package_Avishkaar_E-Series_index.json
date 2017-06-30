@@ -22,7 +22,8 @@
           "checksum": "SHA-256:8b3378f9ab68d132241bde527ef8766a97e8f0bf1218f351f75e518dd23fe36a",
           "size": "25778",
           "boards": [
-            {"name": "E-Series Full"}
+            {"name": "E-Series Full"},
+            {"name": "SR-Series Full"}
           ],
           "toolsDependencies": [
             {
