@@ -19,7 +19,7 @@
           },
           "url": "https://github.com/rajeev-gaba/Avishkaar/raw/master/Releases/Avishkaar_1.1.0.zip",
           "archiveFileName": "Avishkaar_1.1.0.zip",
-          "checksum": "SHA-256:fb0cbd4158626ec8e3c76ad8912d645519fb382e452a0dba3d23696afc4c1fb9”,
+          "checksum": "SHA-256:fb0cbd4158626ec8e3c76ad8912d645519fb382e452a0dba3d23696afc4c1fb9",
           "size": "25153",
           "boards": [
             {"name": "E-Series Full"},
